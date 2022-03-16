@@ -1,8 +1,8 @@
 [
     {
-        "image": "assets/img/projects/project1.jpg",
-        "title": "웹 스크래핑 : BBC 뉴스 코리아",
-        "description": "My Description 01",
+        "image": "assets/img/projects/bbc.png",
+        "title": "웹 스크래핑/워드클라우드 : BBC NEWS KOREA",
+        "description": "01",
         "link": "https://colab.research.google.com/drive/1at_hfxybmBFIQ7WJfigqXT9nyzqkfMKT?usp=sharing"
     },
     {
