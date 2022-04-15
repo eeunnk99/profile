@@ -1,7 +1,7 @@
 [
     {
         "image": "assets/projects/oasis1.png",
-        "title": "1. Oasis Hackathon : 병원정보를 파악할 수 있는 앱 기획/제작",
+        "title": "1. Oasis Hackathon : 병원정보를 파악할 수 있는 앱 기획 및 제작",
         "link": "assets/projects/oasis_leaflet.pdf"
     },
     {
@@ -17,7 +17,7 @@
     {
         "image": "assets/projects/uplex.PNG",
         "title": "4. 인턴 Project : 웹 개발 및 유지보수 (주유소 마감프로그램)",
-        "link": "assets/projects/uplexsoft.pdf"
+        "link": "assets/projects/uplex_final_screen.pdf"
     },
     {
         "image": "assets/projects/bbc1.png",
