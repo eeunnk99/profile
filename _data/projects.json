@@ -36,7 +36,7 @@
     },
     {
         "image": "assets/projects/video.PNG",
-        "title": "8. MNIST : openCV를 활용한 YOLO Object Detection",
+        "title": "8. YOLO : openCV를 활용한 YOLO Object Detection",
         "link": "https://colab.research.google.com/drive/1cuXheDS0waIaCCHiy0N3YFfNSkEvKXU1?usp=sharing"
     }
 ]
