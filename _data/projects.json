@@ -33,5 +33,10 @@
         "image": "assets/projects/mnist.PNG",
         "title": "7. MNIST : openCV를 활용한 손글씨 숫자 분류 모델 학습",
         "link": "https://colab.research.google.com/drive/1G7t2Vb9bTrfm4IgdmsK66RlQnlCfVnkr?usp=sharing"
+    },
+    {
+        "image": "assets/projects/video.PNG",
+        "title": "8. MNIST : openCV를 활용한 YOLO Object Detection",
+        "link": "https://colab.research.google.com/drive/1cuXheDS0waIaCCHiy0N3YFfNSkEvKXU1?usp=sharing"
     }
 ]
