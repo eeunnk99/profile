@@ -28,5 +28,10 @@
         "image": "assets/projects/movnet1.png",
         "title": "6. Movenet : 이미지,비디오 움직임 추적 ",
         "link": "https://colab.research.google.com/drive/1_G-_a8uE_AzjDR4bq6PPXbfwdEnhdnvP?usp=sharing"
+    },
+    {
+        "image": "assets/projects/mnist.PNG",
+        "title": "7. MNIST : openCV를 활용한 손글씨 숫자 분류 모델 학습",
+        "link": "https://colab.research.google.com/drive/1G7t2Vb9bTrfm4IgdmsK66RlQnlCfVnkr?usp=sharing"
     }
 ]
